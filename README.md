@@ -50,7 +50,7 @@ chatbot/
 ## ▶ How to Run the Project
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/Chatbot.git
+git clone https://github.com/sharmanamita161/Chatbot.git
 
 ### 2️⃣ Install required libraries
 pip install tensorflow nltk numpy
