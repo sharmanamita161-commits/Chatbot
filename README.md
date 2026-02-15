@@ -40,13 +40,13 @@ The chatbot follows a modular architecture:
 ---
 
 ## 📂 Project Structure
-chatbot/
-├── intents.json
-├── train.py
-├── chatbot.py
-├── model.h5
-├── README.md
-└── Chatbot-A.pdf
+Chatbot/
+│── intents.json
+│── train.py
+│── chatbot.py
+│── model.h5
+│── README.md
+│── Chatbot-A.pdf
 ## ▶ How to Run the Project
 
 ### 1️⃣ Clone the repository
