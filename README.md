@@ -64,6 +64,6 @@ python chatbot.py
 
 ## 👩‍💻 Author
 
-Sharmanamita Sharma  
+Namita Sharma  
 B.Tech CSE Student  
 Passionate about AI, NLP & Machine Learning
