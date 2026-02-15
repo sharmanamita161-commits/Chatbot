@@ -47,3 +47,23 @@ chatbot/
 ├── model.h5
 ├── README.md
 └── Chatbot-A.pdf
+## ▶ How to Run the Project
+
+### 1️⃣ Clone the repository
+git clone https://github.com/your-username/Chatbot.git
+
+### 2️⃣ Install required libraries
+pip install tensorflow nltk numpy
+
+### 3️⃣ Train the model
+python train.py
+
+### 4️⃣ Run the chatbot
+python chatbot.py
+
+
+## 👩‍💻 Author
+
+Sharmanamita Sharma  
+B.Tech CSE Student  
+Passionate about AI, NLP & Machine Learning
