@@ -40,3 +40,10 @@ The chatbot follows a modular architecture:
 ---
 
 ## 📂 Project Structure
+chatbot/
+│── intents.json
+│── train.py
+│── chatbot.py
+│── model.h5
+│── README.md
+│── Project_Report.pdf
